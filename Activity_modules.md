@@ -5,6 +5,7 @@
 :raised_hand_with_fingers_splayed: **TOUCH**
 * 2-point discrimination
    * Background information - [webpage](pages/touch_2pt_info.md) | [doc](https://docs.google.com/document/d/1fSs6coTgcHRratL2tlU7eB-ahh5-RGH8jcpM4Mf73Y4/edit?usp=drive_link)
+   * [Demonstration video](https://drive.google.com/file/d/1eHtJKMAUEtO76KK582lLEmA5NRGEdAQo/view?usp=drive_link)
    * Activity instructions - [webpage](pages/touch_2pt_instructions.md) | [doc](https://docs.google.com/document/d/1KMBslo6_AMJe0_nJ6tG2EdgIntHITATDgrirFoiEsZY/edit?usp=drive_link)
    * Discrimination threshold chart - [pdf](https://drive.google.com/file/d/188JTB_C_8qtGBsGbXDE-qEcDDtGw41DD/view?usp=drive_link) | [doc](https://docs.google.com/document/d/1qB65IXpxbrD0knaMHpXo3fhkA5bYm6zyslGg8Bi8YqM/edit?usp=drive_link)
 * Touch boxes
@@ -15,6 +16,7 @@
 :eye: **VISION**
 * Prism goggles
    * Activity instructions - [webpage](pages/vision_prism_instructions.md) | [doc](https://docs.google.com/document/d/1k_rUlvIX57YF4NHbvqgpgQbkAG_N9J1Fe1p33I8tjYg/edit?usp=drive_link)
+   * [Demonstration video](https://drive.google.com/file/d/1SiIf3jMmTWk-ZyBymAtcKYN3AeXASrdE/view?usp=drive_link)
 * Illusion Confusion
    * Activity instructions - [webpage](pages/vision_illusions_instructions.md) | [doc](https://docs.google.com/document/d/1NW7liNOqJrDobcYyGGYq7sZABNd8ORAa/edit?usp=drive_link&ouid=108188149784816728586&rtpof=true&sd=true)
    * [Poster](https://drive.google.com/file/d/1RIqVMkAphiEnrynS1FaeDr226lzaJ9HI/view?usp=drive_link)
