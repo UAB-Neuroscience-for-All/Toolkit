@@ -1,4 +1,4 @@
-# UAB Neuroscience for All
+# Neuroscience for All
 
 Repository for materials for Neuroscience for All
 
